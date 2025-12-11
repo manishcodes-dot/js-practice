@@ -1,2 +1,1 @@
 # js-pratice
-javascript pratice 
